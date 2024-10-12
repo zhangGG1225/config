@@ -1,0 +1,22 @@
+{
+  "key": "config",
+  "data": {
+    "icon": {
+      "index": "i-line-md:home-md-twotone",
+      "history": "i-line-md:calendar"
+    },
+    "name": {
+      "index": "首页",
+      "history": "历史"
+    },
+    "theme": {
+      "default": {
+        "primary": "#005661",
+        "secondary": "#009aae",
+        "success": "#2ec8db",
+        "info": "#73dae7",
+        "highlight": "#d0f2f7"
+      }
+    }
+  }
+}
